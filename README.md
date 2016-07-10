@@ -15,9 +15,9 @@ Associated Diagrams - [drive.google.com](https://drive.google.com/file/d/0Byhl_4
 ## Methods or functions to implement
 
 | Method | Description |
-| -- | -- |
-| get_posts_from_livejournal() | Requests posts from livejournal.com and returns them in designed format |
-| post_updates_to_vk() | Posts any updates to a configured account |
+| ------ | ------------ |
+| `get_posts_from_livejournal()` | Requests posts from livejournal.com and returns them in designed format |
+| `post_updates_to_vk()` | Posts any updates to a configured account |
 
 ## LiveJournal XML-RPC API
 
